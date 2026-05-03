@@ -20,6 +20,38 @@ While lottery outcomes are inherently random, this analysis focuses on uncoverin
 
 ![Screenshot](https://github.com/mmpatel9/Lottery_Numbers/blob/main/Comparative%20Analysis%20of%20Minimum%20Values%20for%20Numbers%201%E2%80%9320.png)
 
+![Screenshot]
+()
+![Screenshot]
+()
+![Screenshot]
+()
+![Screenshot]
+()
 
-![Screenshot](https://github.com/mmpatel9/Lottery_Numbers/blob/main/Trend%20Analysis%20of%20Number%201%20Frequency%20by%20Year%20(2021%E2%80%932025).png?raw=true)
+
+
+
+
+
+https://github.com/mmpatel9/Lottery_Numbers/blob/main/Trend%20Analysis%20of%20Numbers%201%E2%80%9320%20Across%20Draw%20Positions%20(Filtered%20by%20Year)/Screenshot%202026-04-12%20at%2014.42.00.png?raw=true
+
+
+https://github.com/mmpatel9/Lottery_Numbers/blob/main/Trend%20Analysis%20of%20Numbers%201%E2%80%9320%20Across%20Draw%20Positions%20(Filtered%20by%20Year)/Screenshot%202026-04-12%20at%2014.43.30.png?raw=true
+
+
+https://github.com/mmpatel9/Lottery_Numbers/blob/main/Trend%20Analysis%20of%20Numbers%201%E2%80%9320%20Across%20Draw%20Positions%20(Filtered%20by%20Year)/Screenshot%202026-04-12%20at%2014.44.13.png?raw=true
+
+
+https://github.com/mmpatel9/Lottery_Numbers/blob/main/Trend%20Analysis%20of%20Numbers%201%E2%80%9320%20Across%20Draw%20Positions%20(Filtered%20by%20Year)/Screenshot%202026-04-12%20at%2014.44.50.png?raw=true
+
+
+https://github.com/mmpatel9/Lottery_Numbers/blob/main/Trend%20Analysis%20of%20Numbers%201%E2%80%9320%20Across%20Draw%20Positions%20(Filtered%20by%20Year)/Screenshot%202026-04-12%20at%2014.45.21.png?raw=true
+
+
+
+<img width="468" height="396" alt="image" src="https://github.com/user-attachments/assets/a22e4810-b34a-41de-861c-df0ee7d2de5b" />
+
+
+(https://github.com/mmpatel9/Lottery_Numbers/blob/main/Trend%20Analysis%20of%20Number%201%20Frequency%20by%20Year%20(2021%E2%80%932025).png?raw=true)
 
