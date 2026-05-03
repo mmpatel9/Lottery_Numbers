@@ -5,7 +5,9 @@ This project explores historical New York Lottery results using visual analytics
 While lottery outcomes are inherently random, this analysis focuses on uncovering interesting structures and recurring behaviours in past draws, presenting them through clear and interactive visual insights.
 
 ## Key Findings 
--
+-•	For each position (1–20), the average value increases progressively with the draw order. This suggests that higher numbers are more likely to appear in later positions, which may be a useful consideration when selecting numbers. 
+•	For the first position (Number 1), the most frequently occurring value is 1 based on the previous 3 years. More broadly, analysis by number ranges indicates that as the value increases, the likelihood of it being selected as the first number decreases. 
+
 
 
 ![Screenshot](https://github.com/mmpatel9/Lottery_Numbers/blob/main/Average%20Distribution%20of%20Numbers%201%E2%80%9320.png?raw=true)
